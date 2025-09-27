@@ -17,7 +17,8 @@ public class WeatherManager {
         addWeatherInList(weather);
     }
 
-    public ArrayList<Weather> getWeatherList() {
+    public ArrayList<Weather> getWeatherList
+    () {
         return weatherList;
     }
 }
